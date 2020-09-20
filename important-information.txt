@@ -1,0 +1,8 @@
+#Here's some help,, if needed
+
+{
+   'IP-address(Application-programming-interface)': 'An Internet Protocol address is a numerical label assigned to each device connected to a computer network that uses the Internet Protocol for communication. An IP address serves two main functions: host or network interface identification and location addressing.',
+}
+{
+   'Open-source-intelligence(OSINT)': 'Open-source intelligence is data collected from publicly available sources to be used in an intelligence context. In the intelligence community, the term "open" refers to overt, publicly available sources. It is not related to open-source software or collective intelligence.',
+}
